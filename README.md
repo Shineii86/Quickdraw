@@ -49,7 +49,8 @@ Using the **GitHub REST API**, the script:
 3. Waits a few seconds.
 4. Closes the issue or PR immediately.
 
-> ⚠️ **Note:** The achievement may take a few minutes to several hours to appear on your profile.
+> [!NOTE]
+>  The achievement may take a few minutes to several hours to appear on your profile.
 
 ---
 
